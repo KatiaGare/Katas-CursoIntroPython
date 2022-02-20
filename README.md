@@ -1,2 +1,2 @@
-# Katas-CursoIntroPython
+# KatasKatiaLaunchx
 Katas CursoIntroPython
